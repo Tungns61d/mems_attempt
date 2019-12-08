@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mems_HeartRate</string>
+    <string name="mainBtn">Press to Start</string>
+
+</resources>
